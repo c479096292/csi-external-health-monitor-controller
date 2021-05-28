@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/csi-resizer:v1.1.0
+FROM k8s.gcr.io/sig-storage/csi-resizer:v1.0.1
 MAINTAINER Caibw
